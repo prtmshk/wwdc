@@ -38,6 +38,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC Notes](https://wwdcnotes.com) from the WWDC community
 * [WWDC 2020 Viewing Guide](https://useyourloaf.com/blog/wwdc-2020-viewing-guide/) from [Keith Harrison](https://useyourloaf.com)
 * [WWDC20](https://engineering.monstar-lab.com/2020/06/26/WWDC20-summary) from [Heidi Puk](https://twitter.com/HeidiPuk), Tom Müller, Jigna Patel and [Christian Weinberger](https://twitter.com/_cweinberger)
+* [All WWDC 2020 Sessions in one Airtable base](https://airtable.com/shrBnfnUp4DpC6ktO/tblG1cvawBxvA6wUS) by [Gregory Berngardt](https://github.com/gregoryvit)
 
 ## Swift
 * [What's new in Swift 5.3](https://www.hackingwithswift.com/articles/218/whats-new-in-swift-5-3) from Hacking with Swift
@@ -73,6 +74,14 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Backward Compatibility with SwiftUI](https://swiftui-lab.com/backward-compatibility) from [SwiftUI-Lab](https://swiftui-lab.com)
 * [The difference between @StateObject, @EnvironmentObject, and @ObservedObject in SwiftUI](https://swiftwithmajid.com/2020/07/02/the-difference-between-stateobject-environmentobject-and-observedobject-in-swiftui/) from Swift with Majid
 * [SwiftUI 2.0 Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) from SimpleBoilerplates
+* [Reusable Oboarding screens using new PageTabViewStyle](https://youtu.be/xMYAJv42SzA) on [Stewart Lynch's YouTube Channel](https://youtube.com/StewartLynch)
+* [Custom navigation bar title view in SwiftUI](https://sarunw.com/posts/custom-navigation-bar-title-view-in-swiftui/) from Sarun Wongpatcharapakorn
+* [SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture](https://www.fivestars.blog/code/section-title-index-swiftui.html) from [Federico Zanetello](http://twitter.com/zntfdr)
+* [Mastering grids in SwiftUI](https://swiftwithmajid.com/2020/07/08/mastering-grids-in-swiftui/) from Swift with Majid
+* [Gosh Darn SwiftUI: SwiftUI Cheat Sheet](https://goshdarnswiftui.com/) from Sarun Wongpatcharapakorn
+* [MatchedGeometryEffect Part 1](https://swiftui-lab.com/matchedgeometryeffect-part1) and [Part 2](https://swiftui-lab.com/matchedgeometryeffect-part2) from [SwiftUI-Lab](https://swiftui-lab.com)
+* [SwiftUI Hierarchy List](https://www.fivestars.blog/code/swiftui-hierarchy-list.html) from [Federico Zanetello](http://twitter.com/zntfdr)
+* [Mastering toolbars in SwiftUI](https://swiftwithmajid.com/2020/07/15/mastering-toolbars-in-swiftui/) from Swift with Majid
 
 ## UIKit
 * [First look at the new UIColorPickerViewController in iOS 14](https://nemecek.be/blog/29/first-look-at-the-new-uicolorpickerviewcontroller-in-ios-14) from Filip Němeček
@@ -83,6 +92,7 @@ So, a number of us decided to start this repository to host links to various WWD
 * [Exploring the New UISegmentedControl Initializer Available in iOS 14](https://prathamesh.xyz/blog/2020/6/25/exploring-the-new-uisegmentedcontrol-initializer-available-in-ios-14) by [Prathamesh Kowarkar](https://twitter.com/prtmshk)
 * [UICollectionView Compositional List Layout | iOS 14 | UIKIt](https://youtu.be/5Q4KgyESHRA) from [Kilo Loco](https://twitter.com/kilo_loco)
 * [Privacy for Photos Access](https://engineering.monstar-lab.com/2020/06/29/Privacy-for-Photos-Access) from Jigna Patel
+* [iOS 14: Quick dive into the new UIColorWell](https://nemecek.be/blog/34/ios-14-quick-dive-into-the-new-uicolorwell) from [Filip Němeček](https://twitter.com/nemecek_f)
 
 ## Xcode
 * [What's New in Xcode 12](https://youtu.be/MMoJiZZWoCA) from [Sean Allen](https://twitter.com/seanallen_dev)
@@ -145,6 +155,7 @@ So, a number of us decided to start this repository to host links to various WWD
 
 ## Swift Playgrounds
 * [A playground feed for the WWDC Swan's Quest Playground Books](https://www.thecodehub.ie/playgrounds/) from The Code Hub -- this is an unofficial feed to make it easier to add the playgrounds to your iPad
+* [A series of videos walking you through the Swan's Quest playground books](https://www.thecodehub.ie/news/wwdc20-swans-quest/) from [The Code Hub](https://www.thecodehub.ie/)
 
 ## Misc
 
@@ -159,6 +170,9 @@ So, a number of us decided to start this repository to host links to various WWD
 * [WWDC 2020 - Quick Thoughts](https://www.empowerapps.show/53) from Leo Dion
 * [WWDC 2020 First Impressions raywenderlich.com Livecast](https://www.raywenderlich.com/11081118-don-t-miss-our-wwdc-2020-livecast-june-22-9pm-edt)
 * [WWDC Debrief Livestream on Twitch (Tues-Fri 6/23-6/26 at 8 PM EDT)](https://twitch.tv/ferrousguy) from Ben Gohlke.
+
+## Testing
+* [WWDC20: What’s New in Unit Testing](https://qualitycoding.org/wwdc20-unit-testing/) from [Jon Reid](https://twitter.com/qcoding/)
 
 <p>&nbsp;</p>
 
